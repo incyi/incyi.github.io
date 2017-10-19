@@ -26,7 +26,3 @@ My Projects stuff:
 # Computers Inventory
 - MacBook Pro early 2015, i7, 16GB, 512GB Flash SSD
 - Custom server with :
-
-
-![](https://www.smashingmagazine.com/wp-content/uploads/2014/07/octojekyll-opt.jpg)
-Jekyll’s Octocat mascot. (Image credit: GitHub)
