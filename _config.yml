@@ -1,4 +1,7 @@
-theme: jekyll-theme-architect
 title: incyi's homepage
 description: Some projects
+theme: jekyll-theme-architect
 google_analytics: [UA-108374030-1]
+url: 'https://incyi.github.io'
+twitter_username: incyi
+github_username: incyi
