@@ -9,3 +9,20 @@ My Projects stuff:
 * [Raspberry Pi](https://github.com/incyi/rpi-playground)
 * [Components](https://github.com/incyi/components-lib)
 
+
+# Hardware Inventory
+
+- Microchip
+- Atmel
+- Raspberry Pi
+
+# Tools Inventory
+
+- Soldering station
+- Knipex
+- Engineer
+
+
+# Computers Inventory
+- MacBook Pro early 2015, i7, 16GB, 512GB Flash SSD
+- Custom server with :
