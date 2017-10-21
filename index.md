@@ -38,3 +38,35 @@ My Projects stuff:
  - 4x SATA Kabel Rond Zwart 300mm
  - Noiseblocker BlackSilent XR-1, 60mm
  - Scythe Slip Stream 500rpm, 120mm
+
+## Atmel AVR
+
+## Arduino based projects
+
+## Embedded Linux System projects
+
+## Espressif ESP based projects
+
+## The Things Network - LoRaWaN
+### Devices:
+
+ **- E&A 2017**
+ Free gift @ Electronics & Applications 2017
+ * https://twitter.com/incyi/status/869985449531416577
+
+ **- TTN Meeting Amsterdam 29 march 2017**
+ PCB: ProMini LoRaWAN SCN v0.1
+ * https://www.thethingsnetwork.org/labs/story/creating-a-ttn-node
+ * https://twitter.com/incyi/status/847155691571888145
+ * https://twitter.com/incyi/status/847137905575444482
+
+ **- mini node**
+ Own build
+ * https://www.thethingsnetwork.org/labs/story/build-the-cheapest-possible-node-yourself
+ * https://twitter.com/incyi/status/840222336255160324
+ * https://twitter.com/incyi/status/839873715064164353
+ * https://twitter.com/incyi/status/839873695699070980
+
+## Raspberry Pi based projects
+
+## Miscellaneous
