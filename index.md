@@ -18,22 +18,20 @@
 
 
 - Custom server with :
- Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
- 
- | Case | Sharkoon CA-M Zwart |
- | Motherboard | ASRock H110M-DGS |
- - Processor Intel Celeron G3900 Boxed
- - Ramm Kingston ValueRAM KVR21N15D8/8 8GB DDR4
- - Boot disk Samsung 840 Pro 256GB (OEM)
- - Data disk Seagate Laptop HDD 4TB
- - Sasonic SSA-0601HE-12 Power Adapter
- - Mini-box picoPSU PICOPSU-150-XT
- - 4x SATA Kabel Rond Zwart 300mm
- - Noiseblocker BlackSilent XR-1, 60mm
- - Scythe Slip Stream 500rpm, 120mm
+
+Type | Spec
+--- | ---
+Case | Sharkoon CA-M Zwart 
+Motherboard | ASRock H110M-DGS 
+Processor | Intel Celeron G3900 Boxed
+Ramm | Kingston ValueRAM KVR21N15D8/8 8GB DDR4
+Boot disk | Samsung 840 Pro 256GB (OEM)
+Data disk | Seagate Laptop HDD 4TB
+Power adapter | Sasonic SSA-0601HE-12 Power Adapter
+PSU | Mini-box picoPSU PICOPSU-150-XT
+Misc | 4x SATA Kabel Rond Zwart 300mm
+Fan | Scythe Slip Stream 500rpm, 120mm
+Fan | Noiseblocker BlackSilent XR-1, 60mm
 
 ## Atmel AVR
 https://github.com/incyi/atmel-avr-playground
