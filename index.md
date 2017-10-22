@@ -4,8 +4,11 @@
 - Microchip
 - Atmel
 - Raspberry Pi
+- Texas Instruments
+- Freescale
 
 # Tools Inventory
+
 Type | Spec
 --- | ---
 Soldering iron | MINI TS100
@@ -17,9 +20,10 @@ Engineer | lot
 Engineer | lot
 
 # Computers Inventory
+
 Type | Spec
 --- | ---
-Apple MacBook Pro | (Retina, 13-inch, Early 2015)
+Apple MacBook Pro | Retina, 13-inch, Early 2015
 Processor | Intel Core i7 3,1 GHz 5557U Broadwell
 Memory | Apple 16 GB 1867 MHz DDR3
 Disk | Apple 512GB Flash SSD
