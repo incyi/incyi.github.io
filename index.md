@@ -9,15 +9,15 @@
 
 # Tools Inventory
 
-Type | Spec
---- | ---
-Soldering iron | MINI TS100
-Soldering iron | Ersa TIP260
-Knipex | lot
-Knipex | lot
-Knipex | lot
-Engineer | lot
-Engineer | lot
+Type | Spec | Link 
+--- | --- | ---
+Soldering iron | MINI TS100 |
+Soldering iron | Ersa TIP260 | 
+Knipex | 77 02 115 ESD | 
+Knipex | 35 22 115 ESD | 
+Engineer | PZ-57 | 
+Engineer | NS-03 | 
+Engineer | PH-55 | 
 
 # Computers Inventory
 
