@@ -1,14 +1,5 @@
 # incyi.github.io
 
-My Projects stuff:
-* [Atmel AVR](https://github.com/incyi/atmel-avr-playground)
-* [Arduino](https://github.com/incyi/arduino-playground)
-* [Embedded Linux system](https://github.com/incyi/Embedded-Linux-System)
-* [Espressif ESP](https://github.com/incyi/esp-playground)
-* [The Things Network - LoRaWaN](https://github.com/incyi/ttn-playground)
-* [Raspberry Pi](https://github.com/incyi/rpi-playground)
-* [Components](https://github.com/incyi/components-lib)
-
 # Hardware Inventory
 - Microchip
 - Atmel
@@ -27,8 +18,13 @@ My Projects stuff:
 
 
 - Custom server with :
- - Case Sharkoon CA-M Zwart
- - Motherboard ASRock H110M-DGS
+ Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+ 
+ | Case | Sharkoon CA-M Zwart |
+ | Motherboard | ASRock H110M-DGS |
  - Processor Intel Celeron G3900 Boxed
  - Ramm Kingston ValueRAM KVR21N15D8/8 8GB DDR4
  - Boot disk Samsung 840 Pro 256GB (OEM)
@@ -40,33 +36,22 @@ My Projects stuff:
  - Scythe Slip Stream 500rpm, 120mm
 
 ## Atmel AVR
+https://github.com/incyi/atmel-avr-playground
 
 ## Arduino based projects
+https://github.com/incyi/arduino-playground
 
 ## Embedded Linux System projects
+* [Embedded Linux system](https://github.com/incyi/Embedded-Linux-System)
 
 ## Espressif ESP based projects
+* [Espressif ESP](https://github.com/incyi/esp-playground)
 
 ## The Things Network - LoRaWaN
-### Devices:
-
- **- E&A 2017**
- Free gift @ Electronics & Applications 2017
- * https://twitter.com/incyi/status/869985449531416577
-
- **- TTN Meeting Amsterdam 29 march 2017**
- PCB: ProMini LoRaWAN SCN v0.1
- * https://www.thethingsnetwork.org/labs/story/creating-a-ttn-node
- * https://twitter.com/incyi/status/847155691571888145
- * https://twitter.com/incyi/status/847137905575444482
-
- **- mini node**
- Own build
- * https://www.thethingsnetwork.org/labs/story/build-the-cheapest-possible-node-yourself
- * https://twitter.com/incyi/status/840222336255160324
- * https://twitter.com/incyi/status/839873715064164353
- * https://twitter.com/incyi/status/839873695699070980
+https://github.com/incyi/ttn-playground/wiki
 
 ## Raspberry Pi based projects
+* [Raspberry Pi](https://github.com/incyi/rpi-playground)
 
 ## Miscellaneous
+* [Components](https://github.com/incyi/components-lib)
