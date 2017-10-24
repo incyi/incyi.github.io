@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 ---
 
 {% for post in site.categories[page.category] %}

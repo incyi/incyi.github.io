@@ -1,23 +1,24 @@
 # incyi.github.io
 
 # Hardware Inventory
-- Microchip
 - Atmel
+- Beagleboard
+- Freescale
+- Microchip
 - Raspberry Pi
 - Texas Instruments
-- Freescale
 
 # Tools Inventory
 
-Type | Spec | Link 
+Type | Spec | Link
 --- | --- | ---
 Soldering iron | MINI TS100 |
-Soldering iron | Ersa TIP260 | 
-Knipex | 77 02 115 ESD | 
-Knipex | 35 22 115 ESD | 
-Engineer | PZ-57 | 
-Engineer | NS-03 | 
-Engineer | PH-55 | 
+Soldering iron | Ersa TIP260 |
+Knipex | 77 02 115 ESD |
+Knipex | 35 22 115 ESD |
+Engineer | PZ-57 |
+Engineer | NS-03 |
+Engineer | PH-55 |
 
 # Computers Inventory
 
@@ -32,8 +33,8 @@ Type | Spec
 --- | ---
 Name | Zuinige server
 Power usage | Between 10-15 watt idle
-Case | Sharkoon CA-M Zwart 
-Motherboard | ASRock H110M-DGS 
+Case | Sharkoon CA-M Zwart
+Motherboard | ASRock H110M-DGS
 Processor | Intel Celeron G3900 Boxed
 Ramm | Kingston ValueRAM KVR21N15D8/8 8GB DDR4
 Boot disk | Samsung 840 Pro 256GB (OEM)
