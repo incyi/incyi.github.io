@@ -1,6 +1,7 @@
 # incyi.github.io
 
 # Hardware Inventory
+
 - Atmel
 - Beagleboard
 - Freescale
@@ -19,9 +20,12 @@ Knipex | 35 22 115 ESD |
 Engineer | PZ-57 |
 Engineer | NS-03 |
 Engineer | PH-55 |
+Raaco | Compact 20 | 
 
 # Computers Inventory
+
 ## MacBook Pro
+
 Type | Spec
 --- | ---
 Apple MacBook Pro | Retina, 13-inch, Early 2015
@@ -48,22 +52,29 @@ Fan | Scythe Slip Stream 500rpm, 120mm
 Fan | Noiseblocker BlackSilent XR-1, 60mm
 
 ## Atmel AVR
+
 https://github.com/incyi/atmel-avr-playground
 
 ## Arduino based projects
+
 https://github.com/incyi/arduino-playground
 
 ## Embedded Linux System projects
+
 * [Embedded Linux system](https://github.com/incyi/Embedded-Linux-System)
 
 ## Espressif ESP based projects
+
 * [Espressif ESP](https://github.com/incyi/esp-playground)
 
 ## The Things Network - LoRaWaN
+
 https://github.com/incyi/ttn-playground/wiki
 
 ## Raspberry Pi based projects
+
 * [Raspberry Pi](https://github.com/incyi/rpi-playground)
 
 ## Miscellaneous
+
 * [Components](https://github.com/incyi/components-lib)
