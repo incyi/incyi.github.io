@@ -1,4 +1,4 @@
 # incyi.github.io
-incyi's homepage open the site https://incyi.github.io
-
--end of readme-
+incyi's homepage <br>
+Please visit my homepage: https://incyi.github.io <br>
+<br>
