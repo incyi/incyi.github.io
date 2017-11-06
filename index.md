@@ -13,7 +13,7 @@
 
 Type | Spec | Link
 --- | --- | ---
-Soldering iron | MINI TS100 |
+Soldering iron | MINI TS100 | [MiniWare](http://www.miniware.com.cn/?product-198.html)
 Soldering iron | Ersa TIP260 |
 Knipex | 77 02 115 ESD |
 Knipex | 35 22 115 ESD |
