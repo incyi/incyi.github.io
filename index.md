@@ -14,12 +14,12 @@
 Type | Spec | Link
 --- | --- | ---
 Soldering iron | MINI TS100 | [MiniWare](http://www.miniware.com.cn/?product-198.html)
-Soldering iron | Ersa TIP260 |
-Knipex | 77 02 115 ESD |
-Knipex | 35 22 115 ESD |
-Engineer | PZ-57 |
-Engineer | NS-03 |
-Engineer | PH-55 |
+Soldering iron | Ersa TIP260 | [Ersa](http://www.kurtzersa.com/electronics-production-equipment/soldering-tools-accessories/ersa-soldering-irons-sets/micro-soldering-irons/produkt-details/0260bd-1.html)
+Knipex | 77 02 115 ESD | [Knipex](http://www.knipex.com/index.php?id=1216&L=1&page=art_detail&parentID=1367&groupID=1482&artID=2661)
+Knipex | 35 22 115 ESD | [Knipex](http://www.knipex.com/index.php?id=1216&L=1&page=art_detail&parentID=1336&groupID=1337&artID=1411)
+Engineer | PZ-57 | [Engineer](http://www.engineer.jp/en/products/pz57e.htm)
+Engineer | NS-03 | [Engineer](http://www.engineer.jp/en/products/ns03_e.html)
+Engineer | PH-55 | [Engineer](http://www.engineer.jp/en/products/ph55e.html)
 Raaco | Compact 20 |
 
 # Computers Inventory
