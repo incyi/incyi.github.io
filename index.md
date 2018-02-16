@@ -56,14 +56,6 @@ Fan | Noiseblocker BlackSilent XR-1, 60mm |
 
 # Projects
 
-## Atmel AVR
-
-* [Atmel AVR](https://github.com/incyi/atmel-avr-playground)
-
-## Arduino based projects
-
-* [Arduino](https://github.com/incyi/arduino-playground)
-
 ## Embedded Linux System projects
 
 * [Embedded Linux system](https://github.com/incyi/Embedded-Linux-System)
@@ -75,11 +67,3 @@ Fan | Noiseblocker BlackSilent XR-1, 60mm |
 ## The Things Network - LoRaWaN
 
 * [The Things Network](https://github.com/incyi/ttn-playground)
-
-## Raspberry Pi based projects
-
-* [Raspberry Pi](https://github.com/incyi/rpi-playground)
-
-## Miscellaneous
-
-* [Components](https://github.com/incyi/components-lib)
