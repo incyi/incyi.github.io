@@ -52,18 +52,3 @@ Misc | 4x SATA Kabel Rond Zwart 300mm |
 Fan | Scythe Slip Stream 500rpm, 120mm |
 Fan | Noiseblocker BlackSilent XR-1, 60mm |
 |||
-
-
-# Projects
-
-## Embedded Linux System projects
-
-* [Embedded Linux system](https://github.com/incyi/Embedded-Linux-System)
-
-## Espressif ESP based projects
-
-* [Espressif ESP](https://github.com/incyi/esp-playground)
-
-## The Things Network - LoRaWaN
-
-* [The Things Network](https://github.com/incyi/ttn-playground)
