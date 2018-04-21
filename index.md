@@ -1,12 +1,10 @@
 # incyi.github.io
 
 # Hardware Inventory
-
 - Atmel
 - Beagleboard
 - Freescale
 - Microchip
-- Raspberry Pi
 - Texas Instruments
 
 # Tools Inventory
@@ -21,6 +19,13 @@ Engineer | PZ-57 | [Engineer](http://www.engineer.jp/en/products/pz57e.htm)
 Engineer | NS-03 | [Engineer](http://www.engineer.jp/en/products/ns03_e.html)
 Engineer | PH-55 | [Engineer](http://www.engineer.jp/en/products/ph55e.html)
 Raaco | Compact 20 |
+
+# Embedded Inventory
+- Raspberry Pi screen
++ Chimei Innolux N070ICG-LD4 Rev C1
+
+# LoRA
+- 1 channel gateway 
 
 # Computers Inventory
 
