@@ -1,9 +1,25 @@
-# incyi.github.io
+# Embedded Inventory
+- Raspberry Pi screen: Chimei Innolux N070ICG-LD4 Rev C1 + Touch screen module
 
-# Hardware Inventory
-- Atmel
-- Beagleboard
-- Freescale
+## LoRA
+- [Node 1](https://www.thethingsnetwork.org/labs/story/build-the-cheapest-possible-node-yourself)
+- [Node 2](https://www.thethingsnetwork.org/labs/story/creating-a-ttn-node)
+- Node 3 Kiss Lora
+- [Node 4](https://www.thethingsnetwork.org/labs/story/a-cheap-stm32-arduino-node)
+- [1 channel gateway](https://github.com/incyi/ESP-1ch-Gateway-v5.0) based on Wemos D1 mini pro + [LoRa shield](https://github.com/hallard/WeMos-Lora)
+- [TTN Mapper](https://github.com/incyi/RAK811_BreakBoard)
+
+## Espressif
+- Heltec ESP32 LoRa x2
+- Wemos D1 Mini x3
+- Legacy ESP modules ESP-01
+- Legacy ESP modules ESP-03
+- Legacy ESP modules ESP-07
+
+## Other platforms
+- Atmel STK500
+- PocketBeagle
+- NXP LPCXpresso
 - Microchip
 - Texas Instruments
 
@@ -19,26 +35,6 @@ Engineer | PZ-57 | [Engineer](http://www.engineer.jp/en/products/pz57e.htm)
 Engineer | NS-03 | [Engineer](http://www.engineer.jp/en/products/ns03_e.html)
 Engineer | PH-55 | [Engineer](http://www.engineer.jp/en/products/ph55e.html)
 Raaco | Compact 20 |
-
-# Embedded Inventory
-- Raspberry Pi screen
-+ Chimei Innolux N070ICG-LD4 Rev C1
-
-# LoRA
-- Node 1
-- Node 2
-- Node 3
-- Node 4
-- [1 channel gateway](https://github.com/incyi/ESP-1ch-Gateway-v5.0) based on Wemos D1 mini pro + [LoRa shield](https://github.com/hallard/WeMos-Lora)
-- [TTN Mapper](https://github.com/incyi/RAK811_BreakBoard)
-
-# Espressif
-- Heltec ESP32 LoRa x2
-- Wemos D1 Mini x3
-- Legacy ESP modules ESP-01
-- Legacy ESP modules ESP-03
-- Legacy ESP modules ESP-07
-
 
 # Computers Inventory
 
