@@ -25,7 +25,20 @@ Raaco | Compact 20 |
 + Chimei Innolux N070ICG-LD4 Rev C1
 
 # LoRA
-- 1 channel gateway 
+- Node 1
+- Node 2
+- Node 3
+- Node 4
+- [1 channel gateway](https://github.com/incyi/ESP-1ch-Gateway-v5.0) based on Wemos D1 mini pro + [LoRa shield](https://github.com/hallard/WeMos-Lora)
+- [TTN Mapper](https://github.com/incyi/RAK811_BreakBoard)
+
+# Espressif
+- Heltec ESP32 LoRa x2
+- Wemos D1 Mini x3
+- Legacy ESP modules ESP-01
+- Legacy ESP modules ESP-03
+- Legacy ESP modules ESP-07
+
 
 # Computers Inventory
 
