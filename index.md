@@ -2,7 +2,14 @@
 layout: default
 title: incyi's blog
 ---
-[blog](/blog)
+# Blog posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date_to_string }} {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 # Embedded Inventory
 - Raspberry Pi screen: Chimei Innolux N070ICG-LD4 Rev C1 + Touch screen module
@@ -72,3 +79,6 @@ Misc | 4x SATA Kabel Rond Zwart 300mm |
 Fan | Scythe Slip Stream 500rpm, 120mm |
 Fan | Noiseblocker BlackSilent XR-1, 60mm |
 |||
+
+# About
+[about](about)

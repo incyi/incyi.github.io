@@ -4,6 +4,20 @@
 
 
 # Documentation to run / debug / test local
-## build
+## Setup environment :
+https://jekyllrb.com/docs/installation/
 
-## start
+- Install git
+- Install ruby
+- install jekyll
+
+## Build :
+```bash
+jekyll build --watch
+```
+ The current folder will be generated into ./_site,watched for changes, and regenerated automatically.
+
+## Start :
+```bash
+jekyll serve
+```
