@@ -1,6 +1,6 @@
 ---
 layout: default
-title: incyi's blog
+title:
 ---
 # Blog posts
 <ul>
