@@ -14,7 +14,7 @@ title:
 # Embedded Inventory
 - Raspberry Pi screen: Chimei Innolux N070ICG-LD4 Rev C1 + Touch screen module
 
-## LoRA
+## LoRa
 - [Node 1](https://www.thethingsnetwork.org/labs/story/build-the-cheapest-possible-node-yourself)
 - [Node 2](https://www.thethingsnetwork.org/labs/story/creating-a-ttn-node)
 - Node 3 Kiss Lora
