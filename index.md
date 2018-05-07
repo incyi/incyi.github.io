@@ -2,6 +2,7 @@
 layout: default
 title: incyi's blog
 ---
+[blog](/blog)
 
 # Embedded Inventory
 - Raspberry Pi screen: Chimei Innolux N070ICG-LD4 Rev C1 + Touch screen module
