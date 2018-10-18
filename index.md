@@ -26,8 +26,8 @@ title: *
 
 ## Espressif
 - Heltec ESP32 LoRa x2
-- (Wemos D1 Mini V3.0.0)[https://nl.aliexpress.com/item/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32529101036.html?spm=a2g0s.9042311.0.0.6e664c4dvFtHqP] x3
-- (Wemos D1 mini Pro V1.1.0)[https://nl.aliexpress.com/item/WEMOS-D1-mini-Pro-16M-bytes-external-antenna-connector-ESP8266-WIFI-Internet-of-Things-development-board/32724692514.html?spm=a2g0s.9042311.0.0.6e664c4dvFtHqP]
+- [Wemos D1 Mini V3.0.0](https://nl.aliexpress.com/item/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32529101036.html]) x3
+- [Wemos D1 mini Pro V1.1.0](https://nl.aliexpress.com/item/WEMOS-D1-mini-Pro-16M-bytes-external-antenna-connector-ESP8266-WIFI-Internet-of-Things-development-board/32724692514.html)
 - ESP modules ESP-01
 - ESP modules ESP-03
 - ESP modules ESP-07
@@ -38,7 +38,7 @@ title: *
 - NXP LPCXpresso
 - Microchip
 - Texas Instruments
-- [Blue Pill](https://nl.aliexpress.com/item/STM32F103C8T6-ARM-STM32-Minimum-Development-Board-Module-for-arduino/32809970602.html?spm=a2g0s.9042311.0.0.6e664c4dvFtHqP)
+- [Blue Pill](https://nl.aliexpress.com/item/STM32F103C8T6-ARM-STM32-Minimum-Development-Board-Module-for-arduino/32809970602.html)
 
 # Tools Inventory
 
