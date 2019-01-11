@@ -59,10 +59,11 @@ Raaco | Compact 20 |
 
 Type | Spec | Link
 --- | --- | ---
-Apple MacBook Pro | Retina, 13-inch, Early 2015 |
-Processor | Intel Core i7 3,1 GHz 5557U Broadwell |
-Memory | Apple 16 GB 1867 MHz DDR3 |
-Disk | Apple 512GB Flash SSD |
+Apple MacBook Pro | Touchbar, 15-inch, Mid 2018 |
+Processor | Intel Core i7 Hexa-Core 2,6 GHz 8850H Coffe Lake  |
+Memory | Apple 32 GB 2400 MHz DDR4 |
+Disk | Apple 1TB Flash SSD |
+Graphics Card | Radeon Pro 560X |
 |||
 
 ## Zuinige server (ECO server)
