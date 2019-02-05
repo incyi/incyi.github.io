@@ -66,23 +66,21 @@ Disk | Apple 1TB Flash SSD |
 Graphics Card | Radeon Pro 560X |
 |||
 
-## Zuinige server (ECO server)
+## Synology NAS
 
 Type | Spec | Link
 --- | --- | ---
-Name | Zuinige server |
-Power usage | Between 10-15 watt idle |
-Case | Sharkoon CA-M Zwart |
-Motherboard | ASRock H110M-DGS |
-Processor | Intel Celeron G3900 Boxed |
-Ramm | Kingston ValueRAM KVR21N15D8/8 8GB DDR4 |
-Boot disk | Samsung 840 Pro 256GB (OEM) |
-Data disk | Seagate Laptop HDD 4TB |
-Power adapter | Sasonic SSA-0601HE-12 Power Adapter |
-PSU | Mini-box picoPSU PICOPSU-150-XT |
-Misc | 4x SATA Kabel Rond Zwart 300mm |
-Fan | Scythe Slip Stream 500rpm, 120mm |
-Fan | Noiseblocker BlackSilent XR-1, 60mm |
+Name | Diskstation |
+Power usage | * |
+Case | Synology DS218+ |
+Motherboard | Synology DS218+ |
+Processor | Intel Celeron J3355 |
+Ramm | Kingston HyperX Impact Black 16 GB 1866 MHz DDR3L CL11 |
+Disk 1 | WD Red 10TB WD100EFAX |
+Disk 2 | Empty |
+External USB Disk | Seagate Expansion Portable 4TB  |
+Power adapter | Synology 60 Watt 12 Volt |
+Fan | Synology |
 |||
 
 # About
