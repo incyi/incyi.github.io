@@ -12,9 +12,14 @@ title: github
 </ul>
 
 # Embedded Inventory
-- Raspberry Pi screen: Chimei Innolux N070ICG-LD4 Rev C1 + Touch screen module [Ebay](https://www.ebay.com/itm/HDMI-LCD-Driver-Board-Module-IPS-7-1280-800-IPS-N070ICG-LD1-LCD-Panel-Matrix/142458649828?hash=item212b327ce4:g:J0UAAOSwrzpZeqd~:rk:10:pf:0)
+- Flysight Black Pearl RC801 [Amazon](https://www.amazon.de/dp/B06X3W8PZ2/ref=cm_sw_r_tw_dp_U_x_G6MgDb0VK7436)
+- My previous Raspberry Pi screen: Chimei Innolux N070ICG-LD4 Rev C1 + Touch screen module [Ebay](https://www.ebay.com/itm/HDMI-LCD-Driver-Board-Module-IPS-7-1280-800-IPS-N070ICG-LD1-LCD-Panel-Matrix/142458649828?hash=item212b327ce4:g:J0UAAOSwrzpZeqd~:rk:10:pf:0)
 
 ## LoRa
+[LoRa](lora)
+
+### Gateways
+- [1 channel gateway](https://github.com/incyi/ESP-1ch-Gateway-v5.0) based on Wemos D1 mini pro + [LoRa shield](https://github.com/hallard/WeMos-Lora)
 
 ### Nodes
 - [Node 1](https://www.thethingsnetwork.org/labs/story/build-the-cheapest-possible-node-yourself) Cheap Arduino Pro Mini node
@@ -27,9 +32,6 @@ title: github
 ### TTN Mapper
 - [TTN Mapper](https://github.com/incyi/RAK811_BreakBoard) [map](https://ttnmapper.org/special.php?node=rak-811-60c5a8fffe000010&alldates=on&gateways=on)
 [RAK811](https://nl.aliexpress.com/item/RAK811-LoRa-Tracker-Board-MAX-7Q-GPS-Module-en-MEMS-Sensor-draadloze-Afstandsbediening-Positionering-Oplossing-LoRaWAN/32844470946.html?spm=a2g0s.9042311.0.0.6e664c4dvFtHqP)
-
-### Gateways
-- [1 channel gateway](https://github.com/incyi/ESP-1ch-Gateway-v5.0) based on Wemos D1 mini pro + [LoRa shield](https://github.com/hallard/WeMos-Lora)
 
 ## Espressif
 - [Heltec ESP32 LoRa x2](https://nl.aliexpress.com/item/2-STKS-868-MHz-915-MHz-SX1276-ESP32-LoRa-0-96-Inch-Blauw-Oled-display-Bluetooth/32836576437.html?spm=a2g0s.9042311.0.0.6e664c4dvFtHqP)
@@ -46,6 +48,8 @@ title: github
 - Microchip
 - Texas Instruments
 - [Blue Pill](https://nl.aliexpress.com/item/STM32F103C8T6-ARM-STM32-Minimum-Development-Board-Module-for-arduino/32809970602.html)
+- Raspberry Pi 3
+- 2x Raspberry Pi Zero W
 
 # Tools Inventory
 
@@ -60,8 +64,8 @@ Engineer | NS-03 | [Engineer](http://www.engineer.jp/en/products/ns03_e.html)
 Engineer | PH-55 | [Engineer](http://www.engineer.jp/en/products/ph55e.html)
 Raaco | Compact 20 |
 
-# Computers Inventory
 
+# Computers Inventory
 ## MacBook Pro
 
 Type | Spec | Link
@@ -71,7 +75,17 @@ Processor | Intel Core i7 Hexa-Core 2,6 GHz 8850H Coffe Lake  |
 Memory | Apple 32 GB 2400 MHz DDR4 |
 Disk | Apple 1TB Flash SSD |
 Graphics Card | Radeon Pro 560X |
-|||
+
+## Thinkpad X230
+
+Type | Spec | Link
+--- | --- | ---
+Thinkpad X230 ||
+Processor | Intel Core i5 |
+Memory ||
+Disk ||
+Graphics Card ||
+Mods | In progress USB-C and Coreboot |
 
 ## Synology NAS
 
@@ -88,7 +102,7 @@ Disk 2 | Empty |
 External USB Disk | Seagate Expansion Portable 4TB  |
 Power adapter | Synology 60 Watt 12 Volt |
 Fan | Noctua NF-A9 FLX |
-|||
+
 
 # About
 [about](about)

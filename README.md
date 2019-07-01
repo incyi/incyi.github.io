@@ -6,17 +6,26 @@
 ## Setup environment :
 https://jekyllrb.com/docs/installation/
 
+And for macOS:
+https://jekyllrb.com/docs/installation/macos/
+
 - Install git
+```bash
+brew install git
+```
+
 - Install ruby
+```bash
+brew install ruby
+```
+
 - install jekyll
-
-## Build :
 ```bash
-jekyll build --watch
+gem install --user-install bundler jekyll
 ```
- The current folder will be generated into ./_site,watched for changes, and regenerated automatically.
 
-## Start :
+## Build and run
 ```bash
-jekyll serve
+bundle exec jekyll serve
 ```
+ The current folder will be generated into ./_site, watched for changes and regenerated automatically.
