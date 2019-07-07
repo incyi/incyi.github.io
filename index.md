@@ -35,7 +35,7 @@ title: github
 
 ## Espressif
 - [Heltec ESP32 LoRa x2](https://nl.aliexpress.com/item/2-STKS-868-MHz-915-MHz-SX1276-ESP32-LoRa-0-96-Inch-Blauw-Oled-display-Bluetooth/32836576437.html?spm=a2g0s.9042311.0.0.6e664c4dvFtHqP)
-- [Wemos D1 Mini V3.0.0](https://nl.aliexpress.com/item/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32529101036.html]) x3
+- [Wemos D1 Mini V3.0.0](https://nl.aliexpress.com/item/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32529101036.html) x3
 - [Wemos D1 mini Pro V1.1.0](https://nl.aliexpress.com/item/WEMOS-D1-mini-Pro-16M-bytes-external-antenna-connector-ESP8266-WIFI-Internet-of-Things-development-board/32724692514.html) This is used in my single channel gateway
 - ESP modules ESP-01
 - ESP modules ESP-03
