@@ -6,6 +6,6 @@ url: 'https://incyi.github.io'
 twitter_username: incyi
 github_username: incyi
 github: [metadata]
-show_downloads: true
+show_downloads: false
 plugins:
   - jekyll-sitemap
