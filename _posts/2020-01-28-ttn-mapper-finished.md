@@ -18,7 +18,7 @@ WITZ Keep it Clear Waterproof Sports Case | [amazon](https://www.amazon.com/WITZ
 
 ![TTN Mapper picture 1](https://incyi.github.io/assets/images/ttn-mapper-finished/1.jpg)  
 
-![TTN Mapper picture 2(https://incyi.github.io/assets/images/ttn-mapper-finished/2.jpg)  
+![TTN Mapper picture 2](https://incyi.github.io/assets/images/ttn-mapper-finished/2.jpg)  
 
 ![TTN Mapper picture 3](https://incyi.github.io/assets/images/ttn-mapper-finished/3.jpg)  
 
