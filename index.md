@@ -20,7 +20,7 @@ title: github
 
 ### Gateways
 - TTIG Gateway
-![TTIG Gateway](images/ttig.png)
+![TTIG Gateway](assets/images/ttig.png)
 
 ### Nodes
 - [Node 1](https://www.thethingsnetwork.org/labs/story/build-the-cheapest-possible-node-yourself) Cheap Arduino Pro Mini node
