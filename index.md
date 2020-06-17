@@ -31,7 +31,8 @@ title: github
 - [Node 6](https://www.thethingsnetwork.org/docs/devices/node/) The Things Node
 
 ### TTN Mapper
-- [TTN Mapper](https://github.com/incyi/RAK811_BreakBoard) [map](https://ttnmapper.org/special.php?node=rak-811-60c5a8fffe000010&alldates=on&gateways=on)
+- [TTN Mapper with Feather M4](https://incyi.github.io/2020/01/28/ttn-mapper-finished.html)
+- [TTN Mapper with RAK811](https://github.com/incyi/RAK811_BreakBoard) [map](https://ttnmapper.org/devices/?device=rak-811-60c5a8fffe000010&startdate=&enddate=&gateways=on&lines=on&points=on)
 [RAK811](https://nl.aliexpress.com/item/RAK811-LoRa-Tracker-Board-MAX-7Q-GPS-Module-en-MEMS-Sensor-draadloze-Afstandsbediening-Positionering-Oplossing-LoRaWAN/32844470946.html?spm=a2g0s.9042311.0.0.6e664c4dvFtHqP)
 
 ## Espressif
@@ -86,7 +87,10 @@ Processor | Intel Core i5-3320M |
 Memory | 2 x 4GB DDR3 1600 MHz|
 Disk | SAMSUNG MZ7PD256 |
 Graphics Card | Intel HD Graphics |
-Mods | In progress USB-C and Coreboot |
+OS | Debian 10 |
+OS | Linux from scratch 9.1 (Dualboot) |
+Mods | USB-C connector with USB-PD 60W Charging |
+Mods | Coreboot with SeaBIOS |
 
 ## Synology NAS
 
@@ -103,7 +107,6 @@ Disk 2 | Seagate Ironwolf Pro 10TB ST10000NE0008 |
 External USB Disk | Seagate Expansion Portable 4TB  |
 Power adapter | Synology 60 Watt 12 Volt |
 Fan | Noctua NF-A9 FLX |
-
 
 # About
 [about](about)
