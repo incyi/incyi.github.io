@@ -43,6 +43,7 @@ title: github
 - 2x Raspberry Pi Zero W
 
 # Tools Inventory
+
 Type | Spec | Link
 --- | --- | ---
 Soldering iron | MINI TS100 | [MiniWare](http://www.miniware.com.cn/?product-198.html)
@@ -53,9 +54,12 @@ Engineer | PZ-57 | [Engineer](http://www.engineer.jp/en/products/pz57e.htm)
 Engineer | NS-03 | [Engineer](http://www.engineer.jp/en/products/ns03_e.html)
 Engineer | PH-55 | [Engineer](http://www.engineer.jp/en/products/ph55e.html)
 Raaco | Compact 20 |
+--- | --- | ---
+
 
 # Computers Inventory
 ## MacBook Pro
+
 Type | Spec | Link
 --- | --- | ---
 Apple MacBook Pro | Touchbar, 15-inch, Mid 2018 |
@@ -63,8 +67,10 @@ Processor | Intel Core i7 Hexa-Core 2,6 GHz 8850H Coffe Lake  |
 Memory | Apple 32 GB 2400 MHz DDR4 |
 Disk | Apple 1TB Flash SSD |
 Graphics Card | Radeon Pro 560X |
+--- | --- | ---
 
 ## Synology NAS
+
 Type | Spec | Link
 --- | --- | ---
 Name | Diskstation |
@@ -78,3 +84,4 @@ Disk 2 | Seagate Ironwolf Pro 10TB ST10000NE0008 |
 External USB Disk | Seagate Expansion Portable 4TB  |
 Power adapter | Synology 60 Watt 12 Volt |
 Fan | Noctua NF-A9 FLX |
+--- | --- | ---
