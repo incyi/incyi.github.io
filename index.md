@@ -58,6 +58,26 @@ Raaco | Compact 20 |
 
 
 # Computers Inventory
+## iPhone 12
+
+Type | Spec | Link
+--- | --- | ---
+Apple iPhone 12 | mini 128GB Blue |
+Case | Apple Blue Leather |
+--- | --- | ---
+
+## iPad Pro
+
+Type | Spec | Link
+--- | --- | ---
+Apple iPad Pro | 11-inch 2nd gen 256GB Cellular |
+Processor | Apple A12Z Bionic |
+Disk | Apple 256GB |
+Color | Space Gray |
+Case | TomToc 11 inch Tablet Sleeve |
+Keyboard | The Magic Keyboard
+--- | --- | ---
+
 ## MacBook Pro
 
 Type | Spec | Link
