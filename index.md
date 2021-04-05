@@ -2,14 +2,6 @@
 layout: default
 title: github
 ---
-# Blog posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.date | date_to_string }} {{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 # Embedded Inventory
 - Flysight Black Pearl RC801 [Amazon](https://www.amazon.de/dp/B06X3W8PZ2/ref=cm_sw_r_tw_dp_U_x_G6MgDb0VK7436)
@@ -78,20 +70,6 @@ Memory | Apple 32 GB 2400 MHz DDR4 |
 Disk | Apple 1TB Flash SSD |
 Graphics Card | Radeon Pro 560X |
 
-## Thinkpad X230
-
-Type | Spec | Link
---- | --- | ---
-Lenovo | Thinkpad X230 |
-Processor | Intel Core i5-3320M |
-Memory | 2 x 4GB DDR3 1600 MHz|
-Disk | SAMSUNG MZ7PD256 |
-Graphics Card | Intel HD Graphics |
-OS | Debian 10 |
-OS | Linux from scratch 9.1 (Dualboot) |
-Mods | USB-C connector with USB-PD 60W Charging |
-Mods | Coreboot with SeaBIOS |
-
 ## Synology NAS
 
 Type | Spec | Link
@@ -107,6 +85,3 @@ Disk 2 | Seagate Ironwolf Pro 10TB ST10000NE0008 |
 External USB Disk | Seagate Expansion Portable 4TB  |
 Power adapter | Synology 60 Watt 12 Volt |
 Fan | Noctua NF-A9 FLX |
-
-# About
-[about](about)
