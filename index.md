@@ -7,9 +7,6 @@ title: github
 - Flysight Black Pearl RC801 [Amazon](https://www.amazon.de/dp/B06X3W8PZ2/ref=cm_sw_r_tw_dp_U_x_G6MgDb0VK7436)
 - My previous Raspberry Pi screen: Chimei Innolux N070ICG-LD4 Rev C1 + Touch screen module [Ebay](https://www.ebay.com/itm/HDMI-LCD-Driver-Board-Module-IPS-7-1280-800-IPS-N070ICG-LD1-LCD-Panel-Matrix/142458649828?hash=item212b327ce4:g:J0UAAOSwrzpZeqd~:rk:10:pf:0)
 
-## LoRa
-[LoRa](lora)
-
 ### Gateways
 - TTIG Gateway
 ![TTIG Gateway](assets/images/ttig.png)
@@ -46,7 +43,6 @@ title: github
 - 2x Raspberry Pi Zero W
 
 # Tools Inventory
-
 Type | Spec | Link
 --- | --- | ---
 Soldering iron | MINI TS100 | [MiniWare](http://www.miniware.com.cn/?product-198.html)
@@ -58,10 +54,8 @@ Engineer | NS-03 | [Engineer](http://www.engineer.jp/en/products/ns03_e.html)
 Engineer | PH-55 | [Engineer](http://www.engineer.jp/en/products/ph55e.html)
 Raaco | Compact 20 |
 
-
 # Computers Inventory
 ## MacBook Pro
-
 Type | Spec | Link
 --- | --- | ---
 Apple MacBook Pro | Touchbar, 15-inch, Mid 2018 |
@@ -71,7 +65,6 @@ Disk | Apple 1TB Flash SSD |
 Graphics Card | Radeon Pro 560X |
 
 ## Synology NAS
-
 Type | Spec | Link
 --- | --- | ---
 Name | Diskstation |

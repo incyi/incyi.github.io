@@ -2,9 +2,8 @@
 layout: default
 title: lora
 ---
+# Lora  
+[ttnmapper](https://ttnmapper.org/devices/?device=feather_m4&startdate=&enddate=&gateways=on&lines=on&points=on)  
 
-# Lora
-
-[ttnmapper](https://ttnmapper.org/special.php?node=rak-811-60c5a8fffe000010&date=2019-07-01&alldates=on&gateways=on)
-
-[home](index)
+[home](index)  
+  
