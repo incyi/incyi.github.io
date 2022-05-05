@@ -4,7 +4,7 @@ title: github
 ---
 
 # Embedded Inventory
-- Flysight Black Pearl RC801 [Amazon](https://www.amazon.de/dp/B06X3W8PZ2/ref=cm_sw_r_tw_dp_U_x_G6MgDb0VK7436)
+- Previous screen: Flysight Black Pearl RC801 [Amazon](https://www.amazon.de/dp/B06X3W8PZ2/ref=cm_sw_r_tw_dp_U_x_G6MgDb0VK7436)
 - My previous Raspberry Pi screen: Chimei Innolux N070ICG-LD4 Rev C1 + Touch screen module [Ebay](https://www.ebay.com/itm/HDMI-LCD-Driver-Board-Module-IPS-7-1280-800-IPS-N070ICG-LD1-LCD-Panel-Matrix/142458649828?hash=item212b327ce4:g:J0UAAOSwrzpZeqd~:rk:10:pf:0)
 
 ### Gateways
@@ -76,17 +76,6 @@ Disk | Apple 256GB |
 Color | Space Gray |
 Case | TomToc 11 inch Tablet Sleeve |
 Keyboard | The Magic Keyboard
---- | --- | ---
-
-## MacBook Pro
-
-Type | Spec | Link
---- | --- | ---
-Apple MacBook Pro | Touchbar, 15-inch, Mid 2018 |
-Processor | Intel Core i7 Hexa-Core 2,6 GHz 8850H Coffe Lake  |
-Memory | Apple 32 GB 2400 MHz DDR4 |
-Disk | Apple 1TB Flash SSD |
-Graphics Card | Radeon Pro 560X |
 --- | --- | ---
 
 ## Synology NAS
