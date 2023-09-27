@@ -100,3 +100,5 @@ External USB Disk | Seagate Expansion Portable 4TB  |
 Power adapter | Synology 60 Watt 12 Volt |
 Fan | Noctua NF-A9 FLX |
 --- | --- | ---
+
+https://kb.synology.com/en-ca/DSM/tutorial/What_network_ports_are_used_by_Synology_services
