@@ -7,7 +7,6 @@ title: Home
 
 Type | Spec | Link
 --- | --- | ---
-Soldering iron | MINI TS100 | [MiniWare](http://www.miniware.com.cn/?product-198.html)
 Soldering iron | Ersa TIP260 | [Ersa](http://www.kurtzersa.com/electronics-production-equipment/soldering-tools-accessories/ersa-soldering-irons-sets/micro-soldering-irons/produkt-details/0260bd-1.html)
 Knipex | 77 02 115 ESD | [Knipex](http://www.knipex.com/index.php?id=1216&L=1&page=art_detail&parentID=1367&groupID=1482&artID=2661)
 Knipex | 35 22 115 ESD | [Knipex](http://www.knipex.com/index.php?id=1216&L=1&page=art_detail&parentID=1336&groupID=1337&artID=1411)
