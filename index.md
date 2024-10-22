@@ -20,16 +20,16 @@ Raaco | Compact 20 |
 # Computers Inventory
 
 ## Lenovo X280
+
 Type | Spec | Link
 --- | --- | ---
-Lenovo X280 | |
+Lenovo X280 | x |
 Processor | Intel Core i5 Quad-Core 8350U  |
 Memory | x 8 GB xx00 MHz DDRx |
 Disk1 | x SSD |
 Disk2 | x SSD |
 Graphics Card | Integrated |
 --- | --- | ---
-
 
 ## iPhone 12
 
