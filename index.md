@@ -18,6 +18,19 @@ Raaco | Compact 20 |
 
 
 # Computers Inventory
+
+## Lenovo X280
+Type | Spec | Link
+--- | --- | ---
+Lenovo X280 | |
+Processor | Intel Core i5 Quad-Core 8350U  |
+Memory | x 8 GB xx00 MHz DDRx |
+Disk1 | x SSD |
+Disk2 | x SSD |
+Graphics Card | Integrated |
+--- | --- | ---
+
+
 ## iPhone 12
 
 Type | Spec | Link
@@ -26,6 +39,13 @@ Apple iPhone 12 | mini 128GB Blue |
 Case | Apple Blue Leather |
 --- | --- | ---
 
+## iPhone 11 Pro
+
+Type | Spec | Link
+--- | --- | ---
+Apple iPhone 11 | Pro 64GB Spacegrey |
+Case | Clear case |
+--- | --- | ---
 
 ## iPad Pro
 
@@ -35,6 +55,7 @@ Apple iPad Pro | 11-inch 2nd gen 256GB Cellular |
 Processor | Apple A12Z Bionic |
 Disk | Apple 256GB |
 Color | Space Gray |
+Case | Apple iPad Pro smart folio |
 Case | TomToc 11 inch Tablet Sleeve |
 Pencil | Apple Pencil 2nd gen |
 --- | --- | ---
