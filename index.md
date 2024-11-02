@@ -19,16 +19,31 @@ Raaco | Compact 20 |
 
 # Computers Inventory
 
+
+## Server
+
+Type | Spec | Link
+--- | --- | ---
+Lenovo P520 | x |
+Processor | Intel Xeon W-2135 |
+Memory | 64GB DDR4 ECC Registered |
+Disk1 | 512GB SSD |
+Disk2 | |
+Graphics Card | Nvidia Qadro P1000 |
+--- | --- | ---
+
 ## Lenovo X280
 
 Type | Spec | Link
 --- | --- | ---
 Lenovo X280 | x |
-Processor | Intel Core i5 Quad-Core 8350U  |
-Memory | x 8 GB xx00 MHz DDRx |
-Disk1 | x SSD |
-Disk2 | x SSD |
-Graphics Card | Integrated |
+Processor | Intel Core i5 Quad-Core 8250U  |
+Memory | 8GB 2400 MHz DDR4 |
+Disk1 | 512GB SSD |
+Disk2 | 256GB SSD |
+Graphics Card | Intel HD Graphics 620 |
+Screen | 12,5" FHD 300 nits |
+Wireless | Intel AC 8265 WiFi AC + Bluetooth 4.1 |
 --- | --- | ---
 
 ## iPhone 12
@@ -39,7 +54,7 @@ Apple iPhone 12 | mini 128GB Blue |
 Case | Apple Blue Leather |
 --- | --- | ---
 
-## iPhone 11 Pro
+## iPhone 11
 
 Type | Spec | Link
 --- | --- | ---
