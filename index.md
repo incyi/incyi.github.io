@@ -19,48 +19,21 @@ Raaco | Compact 20 |
 
 # Computers Inventory
 
-
-## Server
+## Workstation
 
 Type | Spec | Link
 --- | --- | ---
-Lenovo P520 | x |
+PC | Lenovo P520 | 
 Processor | Intel Xeon W-2135 |
-Memory | 64GB DDR4 ECC Registered |
-Disk1 | 512GB SSD |
-Disk2 | |
-Graphics Card | Nvidia Qadro P1000 |
+Memory | 4 x 16GB = 64GB DDR4 ECC Registered |
+Disk1 | Samsung PM981 NVME SSD M.2 512GB |
+Disk2 | WD SN730 NVMe SSD M.2 512GB |
+Disk3 | Kingston A400 S-ATA SSD 2,5" 240GB |
+Disk4 | Samsung 850 EVO S-ATA SSD 2,5" 250GB  |
+Graphics Card | AMD Radeon RX 6750 XT 12GB |
+Ethernet Card | Realtek 2.5 GbE |
 --- | --- | ---
 
-## Lenovo X280
-
-Type | Spec | Link
---- | --- | ---
-Lenovo X280 | x |
-Processor | Intel Core i5 Quad-Core 8250U  |
-Memory | 8GB 2400 MHz DDR4 |
-Disk1 | 512GB SSD |
-Disk2 | 256GB SSD |
-Graphics Card | Intel HD Graphics 620 |
-Screen | 12,5" FHD 300 nits |
-Wireless | Intel AC 8265 WiFi AC + Bluetooth 4.1 |
---- | --- | ---
-
-## iPhone 12
-
-Type | Spec | Link
---- | --- | ---
-Apple iPhone 12 | mini 128GB Blue |
-Case | Apple Blue Leather |
---- | --- | ---
-
-## iPhone 11
-
-Type | Spec | Link
---- | --- | ---
-Apple iPhone 11 | Pro 64GB Spacegrey |
-Case | Clear case |
---- | --- | ---
 
 ## iPad Pro
 
@@ -81,7 +54,6 @@ Pencil | Apple Pencil 2nd gen |
 Type | Spec | Link
 --- | --- | ---
 Name | Diskstation |
-Power usage | * |
 Case | Synology DS218+ |
 Motherboard | Synology DS218+ |
 Processor | Intel Celeron J3355 |
