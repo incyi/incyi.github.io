@@ -1,0 +1,9 @@
+---
+layout: none
+permalink: .well-known/security.txt
+---
+
+# This is a security.txt file following https://securitytxt.org/ 
+Contact: mailto:inanc64+incyi-github-io_2026_security@gmail.com
+Preferred-Languages: nl, en, tr
+Expires: 2026-12-31T23:00:00.000Z
